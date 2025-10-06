@@ -4,14 +4,14 @@
 
 I am currently a second year university student studying Computer Science with Game Technology. I have a strong passion for game development and interactive design and i've worked on numerous programming and game projects, gaining extensive experience with Unity Engines, C# scripting, and Blender for 3D modelling and animation. I enjoy combining creativity with technical problem-solving to bring my ideas to life, and I am always looking to expand my skills in software development, game design, and graphics programming!
 
-[3D_modelling_portfolio]: https://web-portfolio-ruddy-six.vercel.app
+[3D-Modelling portfolio]: https://web-portfolio-ruddy-six.vercel.app
 [coding_portfolio]: https://joannaa23.notion.site/My-coding-Portfolio-908ec956027d468c896f24f149209271?pvs=74
 [linkedin]: https://www.linkedin.com/in/joanna-ayeni-a58108254/
 
 ### 💻 Links
-3D-Modelling portfolio[3D_modelling_portfolio]
-Coding portfolio[coding_portfolio]
-LinkedIn[linkedin]
+[3D-Modelling portfolio]
+[coding_portfolio]
+[linkedin]
 
 #
 
@@ -29,6 +29,7 @@ LinkedIn[linkedin]
 
 ### 📊 Stats
 ![Joanna-Y05's Stats](https://github-readme-stats.vercel.app/api?username=Joanna-Y05&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
+#
 ![Joanna-Y05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joanna-Y05&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
 #
 
