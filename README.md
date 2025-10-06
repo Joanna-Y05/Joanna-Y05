@@ -33,9 +33,9 @@ I am currently a second year university student studying Computer Science with G
 
 
 ### 📊 Stats
-![Joanna-Y05's Stats](https://github-readme-stats.vercel.app/api?username=Joanna-Y05&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
+![joanna-y05's Stats](https://github-readme-stats.vercel.app/api?username=joanna-y05&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
 #
-![Joanna-Y05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joanna-y05&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
+![joanna-y05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joanna-y05&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
 #
 
 
