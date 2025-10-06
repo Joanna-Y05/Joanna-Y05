@@ -8,6 +8,8 @@ I am currently a second year university student studying Computer Science with G
 [Coding portfolio]: https://joannaa23.notion.site/My-coding-Portfolio-908ec956027d468c896f24f149209271?pvs=74
 [LinkedIn]: https://www.linkedin.com/in/joanna-ayeni-a58108254/
 
+--- 
+
 ### 💻 Links
 [3D-Modelling portfolio]
 [Coding portfolio]
@@ -24,7 +26,7 @@ I am currently a second year university student studying Computer Science with G
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" alt="Unity Engines" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 
-#
+---
 
 
 ### 📊 Stats
