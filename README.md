@@ -1,4 +1,12 @@
-## Hi there 👋
+# 🍓 Joanna Ayeni
+
+**`Computer Science student (Game Dev/3D Modelling/programmer)`**
+
+I am currently a second year university student studying Computer Science with Game Technology. I have a strong passion for game development and interactive design and i've worked on numerous programming and game projects, gaining extensive experience with Unity Engines, C# scripting, and Blender for 3D modelling and animation. I enjoy combining creativity with technical problem-solving to bring my ideas to life, and I am always looking to expand my skills in software development, game design, and graphics programming!
+
+
+### 🔧 Languages and programs
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
 <!--
 **Joanna-Y05/Joanna-Y05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
